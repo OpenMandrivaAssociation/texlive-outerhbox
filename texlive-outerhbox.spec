@@ -1,6 +1,6 @@
 Name:		texlive-outerhbox
 Version:	54254
-Release:	1
+Release:	2
 Summary:	Collect horizontal material for contributing to a paragraph
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/outerhbox
