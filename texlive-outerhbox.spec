@@ -3,7 +3,7 @@ Version:	54254
 Release:	2
 Summary:	Collect horizontal material for contributing to a paragraph
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/outerhbox
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/outerhbox
 License:	gpl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/outerhbox.r%{version}.tar.xz
 BuildArch:	noarch
